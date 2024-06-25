@@ -10,3 +10,15 @@
 如果您觉得这个视频有意思，却没有点赞，请注意这不是计划的一部分！  
 请您务必点赞！这是计划的一部分！
 如果您觉得项目有意思，也请您给它一个Star，这也是计划的一部分
+# 我所使用的库如下
+```python
+import threading
+import time
+from tkinter import messagebox
+import wx
+import requests as re
+import tkinter as tk
+import base64 as bs
+from io import BytesIO
+from PIL import Image, ImageTk
+```
