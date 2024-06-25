@@ -22,3 +22,4 @@ import base64 as bs
 from io import BytesIO
 from PIL import Image, ImageTk
 ```
+请自行安装
