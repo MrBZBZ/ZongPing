@@ -6,7 +6,7 @@
 非法使用源代码所造成的任何结果与作者无关，请自行承担 
 # 链接
 [博客文章](https://bzbzblog.pages.dev/2024/06/15/zongping/)  
-[BiliBili视频链接]()  
+[BiliBili视频链接](https://www.bilibili.com/video/BV1kx4y147dz/)  
 如果您觉得这个视频有意思，却没有点赞，请注意这不是计划的一部分！  
 请您务必点赞！这是计划的一部分！
 如果您觉得项目有意思，也请您给它一个Star，这也是计划的一部分
